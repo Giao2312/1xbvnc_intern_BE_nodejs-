@@ -1,0 +1,26 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "flie-test1-duan",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giao2312/1xbvnc_intern_BE_nodejs-.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Giao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giao2312/1xbvnc_intern_BE_nodejs-/issues"
+  },
+  "homepage": "https://github.com/Giao2312/1xbvnc_intern_BE_nodejs-#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
